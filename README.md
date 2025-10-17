@@ -1,2 +1,2 @@
 # PairedUMI-Refine
-Homework of Bioinformatics Lab.
+Homework of Bioinformatics.
